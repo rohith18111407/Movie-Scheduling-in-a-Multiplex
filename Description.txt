@@ -1,0 +1,30 @@
+How to run the code?
+
+*Open the terminal
+*Enter -------->>>  gcc movie.c -o movie
+	 -------->>>  ./movie	 
+
+
+Description:
+
+INPUT MODULE:
+
+1.	Number of new Movies released this week 
+2.	Names of the movies 
+3.	Success rate for old movies
+4.	Cast (actor and actress) weightage and production weightage.
+
+HARD CONSTRAINTS:
+
+•	Slot 3 on weekdays is considered as prime time. Slots 3 and 5 is considered as prime time during weekends.
+•	Slot 2 on weekdays and slots 2 and 4 on weekends is considered as time allotted for average movies.
+•	Slot 1 on weekdays and weekends is considered as time allotted for movies with lowest priority score.
+•	Priority score is calculated on the scale of 5.
+•	If priority score of a movie goes below 1,the movie is more likely to be removed.
+•	There are 16 screens in total with 5 slots on weekends and 3 slots on weekdays.
+•	The cast weightage and production weightage will be given by the user.
+
+SOFT CONSTRAINTS:
+
+•	The success rate for new movie is initiated to 2.5 and it constantly changes every week.
+•	The priority score for each movie changes according to the changes in success rate of that movie.

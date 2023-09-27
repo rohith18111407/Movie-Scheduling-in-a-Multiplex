@@ -1,0 +1,508 @@
+Test Data:
+	
+enter the number of upcoming new movies2
+enter  1  for new movies , 0  old  for old movies :1
+enter the name of the movie :vikram
+enter the cast weightage within the range of [0-5] :4
+enter the prodcution weightage within the range of [0-5] :4
+enter  1  for new movies , 0  old  for old movies :1
+enter the name of the movie :rrr
+enter the cast weightage within the range of [0-5] :2
+enter the prodcution weightage within the range of [0-5] :2
+the name of the movie is : vikram
+the cast weightage for vikram is : 4.000000
+the production weightage for vikram is : 4.000000
+the success rate for vikram is : 2.500000
+the priority score for the vikram is : 4.500000
+
+the name of the movie is : rrr
+the cast weightage for rrr is : 2.000000
+the production weightage for rrr is : 2.000000
+the success rate for rrr is : 2.500000
+the priority score for the rrr is : 3.500000
+
+high priority movies are :
+vikram 
+average priority movies are :
+rrr 
+low priority movies are :
+
+Day            Screen         Slot1                         Slot2                         Slot3                         Slot4                         Slot5   
+
+
+Monday         1              vikram                        rrr                           vikram                        NA                            NA      
+
+               2              vikram                        rrr                           vikram                        NA                            NA      
+
+               3              vikram                        rrr                           vikram                        NA                            NA      
+
+               4              vikram                        rrr                           vikram                        NA                            NA      
+
+               5              vikram                        rrr                           vikram                        NA                            NA      
+
+               6              vikram                        rrr                           vikram                        NA                            NA      
+
+               7              vikram                        rrr                           vikram                        NA                            NA      
+
+               8              vikram                        rrr                           vikram                        NA                            NA      
+
+               9              vikram                        rrr                           vikram                        NA                            NA      
+
+               10             vikram                        rrr                           vikram                        NA                            NA      
+
+               11             vikram                        rrr                           vikram                        NA                            NA      
+
+               12             vikram                        rrr                           vikram                        NA                            NA      
+
+               13             vikram                        rrr                           vikram                        NA                            NA      
+
+               14             vikram                        rrr                           vikram                        NA                            NA      
+
+               15             vikram                        rrr                           vikram                        NA                            NA      
+
+               16             vikram                        rrr                           vikram                        NA                            NA      
+
+
+Tuesday        1              vikram                        rrr                           vikram                        NA                            NA      
+
+               2              vikram                        rrr                           vikram                        NA                            NA      
+
+               3              vikram                        rrr                           vikram                        NA                            NA      
+
+               4              vikram                        rrr                           vikram                        NA                            NA      
+
+               5              vikram                        rrr                           vikram                        NA                            NA      
+
+               6              vikram                        rrr                           vikram                        NA                            NA      
+
+               7              vikram                        rrr                           vikram                        NA                            NA      
+
+               8              vikram                        rrr                           vikram                        NA                            NA      
+
+               9              vikram                        rrr                           vikram                        NA                            NA      
+
+               10             vikram                        rrr                           vikram                        NA                            NA      
+
+               11             vikram                        rrr                           vikram                        NA                            NA      
+
+               12             vikram                        rrr                           vikram                        NA                            NA      
+
+               13             vikram                        rrr                           vikram                        NA                            NA      
+
+               14             vikram                        rrr                           vikram                        NA                            NA      
+
+               15             vikram                        rrr                           vikram                        NA                            NA      
+
+               16             vikram                        rrr                           vikram                        NA                            NA      
+
+
+Wednesday      1              vikram                        rrr                           vikram                        NA                            NA      
+
+               2              vikram                        rrr                           vikram                        NA                            NA      
+
+               3              vikram                        rrr                           vikram                        NA                            NA      
+
+               4              vikram                        rrr                           vikram                        NA                            NA      
+
+               5              vikram                        rrr                           vikram                        NA                            NA      
+
+               6              vikram                        rrr                           vikram                        NA                            NA      
+
+               7              vikram                        rrr                           vikram                        NA                            NA      
+
+               8              vikram                        rrr                           vikram                        NA                            NA      
+
+               9              vikram                        rrr                           vikram                        NA                            NA      
+
+               10             vikram                        rrr                           vikram                        NA                            NA      
+
+               11             vikram                        rrr                           vikram                        NA                            NA      
+
+               12             vikram                        rrr                           vikram                        NA                            NA      
+
+               13             vikram                        rrr                           vikram                        NA                            NA      
+
+               14             vikram                        rrr                           vikram                        NA                            NA      
+
+               15             vikram                        rrr                           vikram                        NA                            NA      
+
+               16             vikram                        rrr                           vikram                        NA                            NA      
+
+
+Thursday       1              vikram                        rrr                           vikram                        NA                            NA      
+
+               2              vikram                        rrr                           vikram                        NA                            NA      
+
+               3              vikram                        rrr                           vikram                        NA                            NA      
+
+               4              vikram                        rrr                           vikram                        NA                            NA      
+
+               5              vikram                        rrr                           vikram                        NA                            NA      
+
+               6              vikram                        rrr                           vikram                        NA                            NA      
+
+               7              vikram                        rrr                           vikram                        NA                            NA      
+
+               8              vikram                        rrr                           vikram                        NA                            NA      
+
+               9              vikram                        rrr                           vikram                        NA                            NA      
+
+               10             vikram                        rrr                           vikram                        NA                            NA      
+
+               11             vikram                        rrr                           vikram                        NA                            NA      
+
+               12             vikram                        rrr                           vikram                        NA                            NA      
+
+               13             vikram                        rrr                           vikram                        NA                            NA      
+
+               14             vikram                        rrr                           vikram                        NA                            NA      
+
+               15             vikram                        rrr                           vikram                        NA                            NA      
+
+               16             vikram                        rrr                           vikram                        NA                            NA      
+
+
+Friday         1              vikram                        rrr                           vikram                        NA                            NA      
+
+               2              vikram                        rrr                           vikram                        NA                            NA      
+
+               3              vikram                        rrr                           vikram                        NA                            NA      
+
+               4              vikram                        rrr                           vikram                        NA                            NA      
+
+               5              vikram                        rrr                           vikram                        NA                            NA      
+
+               6              vikram                        rrr                           vikram                        NA                            NA      
+
+               7              vikram                        rrr                           vikram                        NA                            NA      
+
+               8              vikram                        rrr                           vikram                        NA                            NA      
+
+               9              vikram                        rrr                           vikram                        NA                            NA      
+
+               10             vikram                        rrr                           vikram                        NA                            NA      
+
+               11             vikram                        rrr                           vikram                        NA                            NA      
+
+               12             vikram                        rrr                           vikram                        NA                            NA      
+
+               13             vikram                        rrr                           vikram                        NA                            NA      
+
+               14             vikram                        rrr                           vikram                        NA                            NA      
+
+               15             vikram                        rrr                           vikram                        NA                            NA      
+
+               16             vikram                        rrr                           vikram                        NA                            NA      
+
+
+Saturday       1              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               2              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               3              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               4              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               5              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               6              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               7              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               8              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               9              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               10             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               11             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               12             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               13             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               14             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               15             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               16             vikram                        rrr                           vikram                        rrr                           vikram  
+
+
+Sunday         1              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               2              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               3              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               4              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               5              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               6              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               7              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               8              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               9              vikram                        rrr                           vikram                        rrr                           vikram  
+
+               10             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               11             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               12             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               13             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               14             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               15             vikram                        rrr                           vikram                        rrr                           vikram  
+
+               16             vikram                        rrr                           vikram                        rrr                           vikram
+
+press y to continue to next weeky
+enter the number of upcoming new movies1
+enter  1  for new movies , 0  old  for old movies :0
+enter the name of the movie :vikram
+enter the success rate out of 3 for weekends :2
+enter the success rate out of 2 on weekdays :1
+enter  1  for new movies , 0  old  for old movies :0
+enter the name of the movie :rrr
+enter the success rate out of 3 for weekends :0
+enter the success rate out of 2 on weekdays :1.2
+enter  1  for new movies , 0  old  for old movies :1
+enter the name of the movie :revenant
+enter the cast weightage within the range of [0-5] :4
+enter the prodcution weightage within the range of [0-5] :4
+the name of the movie is : vikram
+the cast weightage for vikram is : 4.000000
+the production weightage for vikram is : 4.000000
+the success rate for vikram is : 3.000000
+the priority score for the vikram is : 3.000000
+
+the name of the movie is : rrr
+the cast weightage for rrr is : 2.000000
+the production weightage for rrr is : 2.000000
+the success rate for rrr is : 1.200000
+the priority score for the rrr is : 1.200000
+
+the name of the movie is : revenant
+the cast weightage for revenant is : 4.000000
+the production weightage for revenant is : 4.000000
+the success rate for revenant is : 2.500000
+the priority score for the revenant is : 4.500000
+
+high priority movies are :
+revenant
+average priority movies are :
+vikram
+low priority movies are :
+rrr
+Day            Screen         Slot1                         Slot2                         Slot3                         Slot4                         Slot5   
+
+
+Monday         1              rrr                           vikram                        revenant                      NA                            NA      
+
+               2              rrr                           vikram                        revenant                      NA                            NA      
+
+               3              rrr                           vikram                        revenant                      NA                            NA      
+
+               4              rrr                           vikram                        revenant                      NA                            NA      
+
+               5              rrr                           vikram                        revenant                      NA                            NA      
+
+               6              rrr                           vikram                        revenant                      NA                            NA      
+
+               7              rrr                           vikram                        revenant                      NA                            NA      
+
+               8              rrr                           vikram                        revenant                      NA                            NA      
+
+               9              rrr                           vikram                        revenant                      NA                            NA      
+
+               10             rrr                           vikram                        revenant                      NA                            NA      
+
+               11             rrr                           vikram                        revenant                      NA                            NA      
+
+               12             rrr                           vikram                        revenant                      NA                            NA      
+
+               13             rrr                           vikram                        revenant                      NA                            NA      
+
+               14             rrr                           vikram                        revenant                      NA                            NA      
+
+               15             rrr                           vikram                        revenant                      NA                            NA      
+
+               16             rrr                           vikram                        revenant                      NA                            NA      
+
+
+Tuesday        1              rrr                           vikram                        revenant                      NA                            NA      
+
+               2              rrr                           vikram                        revenant                      NA                            NA      
+
+               3              rrr                           vikram                        revenant                      NA                            NA      
+
+               4              rrr                           vikram                        revenant                      NA                            NA      
+
+               5              rrr                           vikram                        revenant                      NA                            NA      
+
+               6              rrr                           vikram                        revenant                      NA                            NA      
+
+               7              rrr                           vikram                        revenant                      NA                            NA      
+
+               8              rrr                           vikram                        revenant                      NA                            NA      
+
+               9              rrr                           vikram                        revenant                      NA                            NA      
+
+               10             rrr                           vikram                        revenant                      NA                            NA      
+
+               11             rrr                           vikram                        revenant                      NA                            NA      
+
+               12             rrr                           vikram                        revenant                      NA                            NA      
+
+               13             rrr                           vikram                        revenant                      NA                            NA      
+
+               14             rrr                           vikram                        revenant                      NA                            NA      
+
+               15             rrr                           vikram                        revenant                      NA                            NA      
+
+               16             rrr                           vikram                        revenant                      NA                            NA      
+
+
+Wednesday      1              rrr                           vikram                        revenant                      NA                            NA      
+
+               2              rrr                           vikram                        revenant                      NA                            NA      
+
+               3              rrr                           vikram                        revenant                      NA                            NA      
+
+               4              rrr                           vikram                        revenant                      NA                            NA      
+
+               5              rrr                           vikram                        revenant                      NA                            NA      
+
+               6              rrr                           vikram                        revenant                      NA                            NA      
+
+               7              rrr                           vikram                        revenant                      NA                            NA      
+
+               8              rrr                           vikram                        revenant                      NA                            NA      
+
+               9              rrr                           vikram                        revenant                      NA                            NA      
+
+               10             rrr                           vikram                        revenant                      NA                            NA      
+
+               11             rrr                           vikram                        revenant                      NA                            NA      
+
+               12             rrr                           vikram                        revenant                      NA                            NA      
+
+               13             rrr                           vikram                        revenant                      NA                            NA      
+
+               14             rrr                           vikram                        revenant                      NA                            NA      
+
+               15             rrr                           vikram                        revenant                      NA                            NA      
+
+               16             rrr                           vikram                        revenant                      NA                            NA      
+
+
+Thursday       1              rrr                           vikram                        revenant                      NA                            NA      
+
+               2              rrr                           vikram                        revenant                      NA                            NA      
+
+               3              rrr                           vikram                        revenant                      NA                            NA      
+
+               4              rrr                           vikram                        revenant                      NA                            NA      
+
+               5              rrr                           vikram                        revenant                      NA                            NA      
+
+               6              rrr                           vikram                        revenant                      NA                            NA      
+
+               7              rrr                           vikram                        revenant                      NA                            NA      
+
+               8              rrr                           vikram                        revenant                      NA                            NA      
+
+               9              rrr                           vikram                        revenant                      NA                            NA      
+
+               10             rrr                           vikram                        revenant                      NA                            NA      
+
+               11             rrr                           vikram                        revenant                      NA                            NA      
+
+               12             rrr                           vikram                        revenant                      NA                            NA      
+
+               13             rrr                           vikram                        revenant                      NA                            NA      
+
+               14             rrr                           vikram                        revenant                      NA                            NA      
+
+               15             rrr                           vikram                        revenant                      NA                            NA      
+
+               16             rrr                           vikram                        revenant                      NA                            NA      
+
+
+Friday         1              rrr                           vikram                        revenant                      NA                            NA      
+
+               2              rrr                           vikram                        revenant                      NA                            NA      
+
+               3              rrr                           vikram                        revenant                      NA                            NA      
+
+               4              rrr                           vikram                        revenant                      NA                            NA      
+
+               5              rrr                           vikram                        revenant                      NA                            NA      
+
+               6              rrr                           vikram                        revenant                      NA                            NA      
+
+               7              rrr                           vikram                        revenant                      NA                            NA      
+
+               8              rrr                           vikram                        revenant                      NA                            NA      
+
+               9              rrr                           vikram                        revenant                      NA                            NA      
+
+               10             rrr                           vikram                        revenant                      NA                            NA      
+
+               11             rrr                           vikram                        revenant                      NA                            NA      
+
+               12             rrr                           vikram                        revenant                      NA                            NA      
+
+               13             rrr                           vikram                        revenant                      NA                            NA      
+
+               14             rrr                           vikram                        revenant                      NA                            NA      
+
+               15             rrr                           vikram                        revenant                      NA                            NA      
+
+               16             rrr                           vikram                        revenant                      NA                            NA      
+
+
+Saturday       1              rrr                           vikram                        revenant                      vikram                        revenant
+               2              rrr                           vikram                        revenant                      vikram                        revenant
+               3              rrr                           vikram                        revenant                      vikram                        revenant
+               4              rrr                           vikram                        revenant                      vikram                        revenant
+               5              rrr                           vikram                        revenant                      vikram                        revenant
+               6              rrr                           vikram                        revenant                      vikram                        revenant
+               7              rrr                           vikram                        revenant                      vikram                        revenant
+               8              rrr                           vikram                        revenant                      vikram                        revenant
+               9              rrr                           vikram                        revenant                      vikram                        revenant
+               10             rrr                           vikram                        revenant                      vikram                        revenant
+               11             rrr                           vikram                        revenant                      vikram                        revenant
+               12             rrr                           vikram                        revenant                      vikram                        revenant
+               13             rrr                           vikram                        revenant                      vikram                        revenant
+               14             rrr                           vikram                        revenant                      vikram                        revenant
+               15             rrr                           vikram                        revenant                      vikram                        revenant
+               16             rrr                           vikram                        revenant                      vikram                        revenant
+
+Sunday         1              rrr                           vikram                        revenant                      vikram                        revenant
+               2              rrr                           vikram                        revenant                      vikram                        revenant
+               3              rrr                           vikram                        revenant                      vikram                        revenant
+               4              rrr                           vikram                        revenant                      vikram                        revenant
+               5              rrr                           vikram                        revenant                      vikram                        revenant
+               6              rrr                           vikram                        revenant                      vikram                        revenant
+               7              rrr                           vikram                        revenant                      vikram                        revenant
+               8              rrr                           vikram                        revenant                      vikram                        revenant
+               9              rrr                           vikram                        revenant                      vikram                        revenant
+               10             rrr                           vikram                        revenant                      vikram                        revenant
+               11             rrr                           vikram                        revenant                      vikram                        revenant
+               12             rrr                           vikram                        revenant                      vikram                        revenant
+
+               13             rrr                           vikram                        revenant                      vikram                        revenant
+
+               14             rrr                           vikram                        revenant                      vikram                        revenant
+
+               15             rrr                           vikram                        revenant                      vikram                        revenant
+
+               16             rrr                           vikram                        revenant                      vikram                        revenant
+
+
+press y to continue to next week n
